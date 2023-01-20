@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raidel</h1>
-<h3 align="center">A passionate backend developer from Cuba</h3>
+<h3 align="center">A passionate backend and Android developer from Cuba</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raidelnapoles&label=Profile%20views&color=0e75b6&style=flat" alt="raidelnapoles" /> </p>
 
