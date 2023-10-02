@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [InfoPyME platform](https://apklis.cu/application/com.napper.infopyme21)
 
-- 🌱 I’m currently learning **Android development, Kotlin, Flutter**
+- 🌱 I’m currently learning **React and Android development**
 
 - 📫 How to reach me **raidelnapoles95@gmail.com**
 
